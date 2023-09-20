@@ -1,2 +1,3 @@
 # HermesProject
-HermesProject is a Telegram bot implementation with openai
+
+hermes project is an implementation of a telegram bot that uses GPT technology (openai).
