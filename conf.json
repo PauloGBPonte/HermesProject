@@ -1,0 +1,12 @@
+{
+  "update_protocols": {
+    "id_0": {
+      "trigger_type": "literal",
+      "trigger_target": "Hello",
+      "response_type": "text",
+      "response": "Hello @client_f_name@ Date/Time @datetime@",
+      "allowed_at_state": "Any",
+      "set_state": "id_0"
+    }
+  }
+}
